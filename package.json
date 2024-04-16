@@ -58,5 +58,8 @@
     "eslint-plugin-prettier": "^3.4.0",
     "prettier": "^2.3.0"
   },
-  "homepage": "."
+  "homepage": ".",
+  "resolutions": {
+    "material-ui-popup-state": "5.0.9"
+  }
 }
