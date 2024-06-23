@@ -60,6 +60,7 @@
   },
   "homepage": ".",
   "resolutions": {
-    "material-ui-popup-state": "5.0.9"
+    "material-ui-popup-state": "5.0.9",
+    "buffer-crc32": "0.2.13"
   }
 }
